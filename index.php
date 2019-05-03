@@ -16,3 +16,13 @@
 include __DIR__ . '/ad.php';
 include __DIR__ . '/zones.php';
 include __DIR__ . '/atl_ad_shortcode.php';
+include __DIR__ . '/functions.php';
+
+/* 
+ * TODOs:
+ * How to create custom meta boxes in WP
+ * Proper escaping of all output
+ * (specifically user URL inputs)
+ * Lookup escaping and sanatization
+ * <?php shortcode_atts( $pairs, $atts, $shortcode ); ?> Defaults set for attributes
+ */
