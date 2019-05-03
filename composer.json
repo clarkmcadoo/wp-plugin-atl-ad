@@ -1,0 +1,15 @@
+{
+    "name": "cstclair/wp-plugin-atl-ad",
+    "description": "Cool Ad Plugin",
+    "type": "wordpress-plugin",
+    "require": {
+        "wpscholar/phpcs-standards-wpscholar": "^1.0"
+    },
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Christian St. Clair",
+            "email": "cstclair@gsandf.com"
+        }
+    ]
+}
